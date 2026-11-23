@@ -55,6 +55,6 @@ python build_pdf.py
 ## Author
 
 **Ashmeet Singh Sandhu**  
-- Email: [sandhuasmeet40@gmail.com](mailto:sandhuasmeet40@gmail.com)  
+- Email: [sandhuashmeet40@gmail.com](mailto:sandhuashmeet40@gmail.com)  
 - GitHub: [@ASHMEET555](https://github.com/ASHMEET555)  
 - Portfolio: [https://ashmeet.tech](https://ashmeet.tech)
